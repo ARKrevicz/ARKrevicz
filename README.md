@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARKrevicz
+- 👋 Hi, I’m Adriano Roberto Krevicz (@ARKrevicz)
 - I'm Bilingual professional (Portuguese and English) held a MEng in Industrial Engineering and BE in Mechanical Engineering with experience in technical drawing, design and conception of mechanical components, in addition to knowing about projects validation and simulation using CAD/CAE softwares (NX 9.0, Catia V5, SolidWorks, Ansys). 
 Throughout my career I have carried out management and development activities (using softwares like Excel, Word, SAP), manufacturing and maintenance of equipment, in addition to knowing quality tools and continuous improvement (PDCA, DMAIC), monitoring KPI maintenance and production.
 My Thesys was about numerical simulation and experimental evaluation of the parameters involved in steel stamping, which was an exciting experience using the digital image correlation methodology for experimental tests, for a next characterization of material properties and to perform numerical simulations on the stamping process.
