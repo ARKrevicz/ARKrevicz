@@ -16,7 +16,7 @@ I'm always looking for new challenges related with areas of technology, innovati
 ## 📒 Status
 
    <div>
-  <a href="https://github.com/leticiaveigacs">
+  <a href="https://github.com/ARKrevicz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARKrevicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
 <div align="left">
